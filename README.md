@@ -15,3 +15,5 @@
   6. Command `pytest -vs`
 
 # Output
+
+![Patent](./Patent.png)
