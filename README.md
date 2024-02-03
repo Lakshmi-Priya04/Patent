@@ -7,4 +7,11 @@
   - Chrome Browser
 
 # Instructions
-  
+  1. Create a Project "Patent" in the code editor (PyCharm).
+  2. Install Selenium and Pytest in the Project.
+  3. Copy the files from the repository and paste it inside the "Patent" project.
+  4. Copy the absolute path of Testcase folder.
+  5. Open the Command Prompt and change the directory to the Testcase.
+  6. Command `pytest -vs`
+
+# Output
